@@ -326,9 +326,6 @@ LIST_METRICS_TEMPLATE = """<ListMetricsResponse xmlns="http://monitoring.amazona
             </member>
             {% endfor %}
         </Metrics>
-        <NextToken>
-            96e88479-4662-450b-8a13-239ded6ce9fe
-        </NextToken>
     </ListMetricsResult>
 </ListMetricsResponse>"""
 
